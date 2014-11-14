@@ -1,4 +1,4 @@
 sporest
 =======
 
-A polyglotinous REST API Client/Server generator.
+A polyglotinous REST API client and stub server generator.
